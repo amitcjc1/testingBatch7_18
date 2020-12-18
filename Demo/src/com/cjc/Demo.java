@@ -6,7 +6,10 @@ public class Demo
 	{
 		System.out.println("M1====Demo");
 	}
-	
+	public void m2()
+	{
+		System.out.println("M1====Demo");
+	}
 	
 	
 public static void main(String[] args) {
